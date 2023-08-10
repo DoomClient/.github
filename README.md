@@ -1,0 +1,2 @@
+# .github
+Insane client (trust)
